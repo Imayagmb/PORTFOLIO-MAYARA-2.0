@@ -9,6 +9,7 @@ A versão 1.0 foi feita apenas com **HTML e CSS**. Já esta nova versão traz **
 - React  
 - Vite  
 - [Lucide‑react](https://lucide.dev/) (biblioteca de ícones)
+- tailwind
 
 ## Link do projeto no ar
 
