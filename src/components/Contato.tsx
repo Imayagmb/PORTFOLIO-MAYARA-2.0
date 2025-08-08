@@ -160,7 +160,6 @@ const Contact: React.FC<ContactProps> = ({ isDarkMode }) => {
                     <li>• Desenvolvimento Front-end</li>
                     <li>• Desenvolvimento Back-end</li>
                     <li>• Projetos Full Stack</li>
-                    <li>• Consultoria técnica</li>
                   </ul>
                 </div>
 
