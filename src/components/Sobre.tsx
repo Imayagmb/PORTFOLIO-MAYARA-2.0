@@ -20,7 +20,7 @@ const Sobre: React.FC<SobreProps> = ({ isDarkMode }) => {
     {
       icon: <Cloud size={24} />,
       title: 'Data/Cloud',
-      items: ['Python (Pandas/Numpy)', 'AWS Lambda', 'SQL avançado']
+      items: ['Python (Pandas/Numpy)', 'AWS Lambda', 'SQL']
     },
     {
       icon: <Palette size={24} />,
