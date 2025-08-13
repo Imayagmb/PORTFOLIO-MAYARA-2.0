@@ -67,7 +67,7 @@ const Projects: React.FC<ProjectsProps> = ({ isDarkMode }) => {
       title: 'Vida plena',
       description: 'Aplicativo web desenvolvido para ajudar a manter uma rotina saudável. Oferece controle de metas diárias, acompanhamento de hábitos, dicas de alimentação, histórico médico, contatos de emergência, tarefas, finanças pessoais e opções de personalização. Projeto focado em bem-estar e organização pessoal.',
       technologies: ['React', 'TypeScript', 'Tailwind CSS', 'React Icons / Lucide React', 'Vite'],
-      demoUrl: 'hhttps://vida-plena-react.vercel.app/',
+      demoUrl: 'https://vida-plena-react.vercel.app/',
       githubUrl: 'https://github.com/Imayagmb/VidaPlena-React',
       image: 'https://i.postimg.cc/J0Hyf8Bg/vidaplena.png'
     },
